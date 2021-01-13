@@ -1,0 +1,12 @@
+﻿  OpenCVProject.cpp
+D:\OpenCVProjects\OpenCVProject\OpenCVProject\OpenCVProject.cpp(11,40): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\OpenCVProjects\OpenCVProject\OpenCVProject\OpenCVProject.cpp(11,25): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  OpenCVProject.vcxproj -> D:\OpenCVProjects\OpenCVProject\x64\Debug\OpenCVProject.exe
